@@ -1,0 +1,1 @@
+﻿"C:\Program Files\Antlr\antlr-3.1.3\runtime\CSharp3.4.1.90004\Antlr3.exe" "D:\DotNet\Speeltuin\PDNDatabase\Pdn.g" -o "D:\DotNet\Speeltuin\PDNDatabase"
